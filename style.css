@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(25, 123, 123);
+    margin: 30px 30px;
+}
+#badabox{
+    background-color: aqua;
+}
+.parent {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    word-wrap: ;
+
+}
